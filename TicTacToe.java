@@ -1,8 +1,8 @@
-//JHG 3385 CSE 1310 11/30/19 005
+
 
 import java.util.Arrays;
 import java.util.Scanner;
-//TIC TAC TOE YO MOMMAS A HO
+
 public class TicTacToe{
   
    public static void main(String[] args){
